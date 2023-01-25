@@ -7,7 +7,7 @@
 - Byl zde převezen [[Arthur Storm]] 
 
 **Obydlí pro vězně**
-![[Gonzha1.jpg]]
+<img src="/assets/Gonzha1.jpg"/>
 
 **Doly**
-![[GIGADUL.png]]
+<img src="/assets/GIGADUL.png"/>

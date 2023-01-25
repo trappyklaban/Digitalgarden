@@ -1,7 +1,7 @@
 *Mezi svými nepřáteli znám jako Nocturne, ve příbězích a mezi svými bratry ve zbrani znám jako Nox*
 
 **Arthur bez čehokoliv na obličeji**
-![[ARHUR.png]]
+<img src="/assets/ARHUR.png"/>
 
 # Vzhled
 

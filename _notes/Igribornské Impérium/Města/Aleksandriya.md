@@ -5,4 +5,4 @@
 - Centrem vzdělání, zábavy a obchodu
 - Sídlí zde vláda, a má zde sídlo i tsar
 
-![[aleksandriya.jpg]]
+<img src="/assets/aleksandriya.jpg"/>

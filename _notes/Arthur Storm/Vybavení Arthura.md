@@ -1,12 +1,12 @@
 
 # Zbroj
 
-![[NOX2.png]]
+<img src="/assets/NOX2.png"/>
 
 # Zbraně
 
 **Tomahawk - primární ruční zbraň**
-![[tomahawk.jpg]]
+<img src="/assets/tomahawk.jpg"/>
 
 **Opakovací puška**
-![[opakovačka.jpg]]
+<img src="/assets/opakovačka.jpg"/>

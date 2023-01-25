@@ -5,4 +5,4 @@
 - Vyrábí se zde takzvané **Oteplovací majáky**, které zvyšují teplotu v určitých oblastech
 - Zpracovává se zde speciální červená ruda, která v sobě nese magii a je velice reaktivní
 
-![[Voronovo.jpg]]
+<img src="/assets/Voronovo.jpg"/>
