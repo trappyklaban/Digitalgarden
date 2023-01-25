@@ -7,7 +7,8 @@ permalink: /
 
 # Ahoj! 🌱
 
-[[Arthur Storm]] 
+[[Arthur Storm]]
+
 [[Základní informace]] 
 
 <style>
