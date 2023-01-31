@@ -57,4 +57,4 @@ V této fázi dochází k závěrečné očistě před osvícením. Nezůstávaj
 Dokonalá látka je nalezena. Nejfyzikálnějším způsobem pozorujeme, jak se tekutý stav mění v zahuštěnou hmotu. Tento proces je metaforou pro povznesené já.
 Konečně je dosaženo zralosti a tělo, duch a duše mezi sebou nacházejí dokonalou rovnováhu. Skutečně se osvobodíme od mysli a naše vědomí je schopno propojit ducha a duši v dokonalé harmonii. Sledujeme znovuzrození krásné nové bytosti.
 
-<img src="/assets/sražení.png"/>
+<img src="/assets/srážení.png"/>
