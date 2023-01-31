@@ -32,7 +32,5 @@
 # Města
 
 [[Aleksandriya]] - Hlavní město
-
 [[Voronovo]] - Industriální, továrenské město
-
 [[Gonzha]] - Vězeňské město

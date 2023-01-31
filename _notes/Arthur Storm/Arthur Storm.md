@@ -61,8 +61,14 @@
 - Po mnoha úspěších si ho všimli **Noční elfové**, kteří ho vzali do svých řad
 - Stal se Zemanem jednoho ze Zoirských panství
 - Během jedné z jeho operací se setkal s Lišejem, který ho ušetřil před smrtí, a označil ho "smrtí", po celý měsíc ho nutil dělat pozlacenou polomasku z lidských lebek
-- Carmen a Nox = homie<3 
+**Lešij**
+<img src="/assets/lešij.png"/>
+- Po vytvoření masky a měsíci temných emocí, se rozhodl veškeré své temné myšlenky vypustit činy
+- Šel po nejbližším šlechticovi, o kterém věděl že na něj je velká odměna a nějak ho to neohrozí
+- Během vraždy šlechtice zachránil Karmenského válečníka, který mu dluží životem
 
 # Baliho a Fílovi nápady
 - Bude působit jak polomrtvá schránka
 - Nocturne / Nox - "Šerá noc"
+
+
